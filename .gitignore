@@ -1,0 +1,7 @@
+# 项目排除路径
+/config_server_15000/target/
+/eureka_server_13000/target/
+/gateway_server_14000/target/
+/Service_Consumer_12000/target/
+/Service_Provide_11001/target/
+/Service_Provider_11000/target/
